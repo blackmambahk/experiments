@@ -33,6 +33,7 @@
 
 /**
  * This only gets loaded by 'modern' browsers so we can use full ES6 syntax
+ * Note: you must use https for ServiceWorkers to work
  */
 
 /**
